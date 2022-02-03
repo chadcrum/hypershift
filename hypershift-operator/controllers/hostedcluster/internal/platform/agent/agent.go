@@ -22,7 +22,7 @@ import (
 
 const (
 	// TODO Pin to specific release
-	imageCAPAgent = "quay.io/edge-infrastructure/cluster-api-provider-agent:latest"
+	imageCAPAgent = "quay.io/itsoiref/capi:latest"
 )
 
 type Agent struct{}
